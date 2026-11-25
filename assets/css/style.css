@@ -389,18 +389,3 @@ img.vc-beacon {
 }
 .card { border-radius: 18px; }
 
-
-/* 次のステップ（記事末尾のまとめ後。広告リンクを含む場合は「広告（PR）」を併記） */
-.next-step {
-  margin: 1.6rem 0 1rem;
-  padding: 0.95rem 1rem;
-  background: var(--pr-bg, #f3f6f9);
-  border: 1px solid var(--line, #d9e1e8);
-  border-left: 4px solid var(--accent, #1b6ca8);
-  border-radius: 8px;
-}
-.article-body .next-step h2 { margin-top: 0; border-top: 0; padding-top: 0; }
-.next-step p { margin: 0.4rem 0 0.7rem; }
-.next-step ul { margin: 0.3rem 0 0.8rem; }
-.next-step-jump { margin: 0 0 1rem; font-size: 0.92rem; }
-.next-step-jump a { display: inline-block; padding: 0.35rem 0; font-weight: 700; }
